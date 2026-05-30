@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usercalidate",
+        "uuid": 1835400,
+        "checksum": "hq1dvj"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
